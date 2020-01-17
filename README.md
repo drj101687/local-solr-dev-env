@@ -1,4 +1,5 @@
-#Localized Solr Development Environemnt
+# Localized Solr Development Environment
+
 *This is a sample project to allow the development of custom Solr Plugins.*
 
 This project will automatically checkout the 8.4.1 release version of Solr, compile the Solr build, compile Solr plugin,
